@@ -1,0 +1,14 @@
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\bin\Debug\net8.0\Практична робота №9.exe
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\bin\Debug\net8.0\Практична робота №9.deps.json
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\bin\Debug\net8.0\Практична робота №9.runtimeconfig.json
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\bin\Debug\net8.0\Практична робота №9.dll
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\bin\Debug\net8.0\Практична робота №9.pdb
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.AssemblyInfoInputs.cache
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.AssemblyInfo.cs
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.csproj.CoreCompileInputs.cache
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.dll
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\refint\Практична робота №9.dll
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.pdb
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\Практична робота №9.genruntimeconfig.cache
+D:\vs_studio_projects\Практична робота №9\Практична робота №9\obj\Debug\net8.0\ref\Практична робота №9.dll
